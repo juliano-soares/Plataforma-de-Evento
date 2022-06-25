@@ -1,3 +1,4 @@
+<img src="./src/assets/screencapture.png" alt="captura da tela" />
 
 ## Tecnologias
 - Tailwind
